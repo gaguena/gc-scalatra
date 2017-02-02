@@ -1,9 +1,9 @@
-# my-app-rest #
+# gc-scalatra #
 
 ## Build & Run ##
 
 ```sh
-$ cd my_app_rest
+$ cd gc-scalatra
 $ ./sbt
 > jetty:start
 > browse
