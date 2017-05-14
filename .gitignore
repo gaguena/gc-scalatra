@@ -1,4 +1,5 @@
 ## generic files to ignore
+.cache-main
 *~
 *.lock
 *.DS_Store
@@ -67,3 +68,4 @@ jrebel.lic
 
 # paulp script
 /.lib/
+/bin/
